@@ -1,6 +1,14 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Niels de Visser",
+  "description": "FreeCodeCamp back end training",
+  "keywords": [
+    "freecodecamp",
+    "training",
+    "practice"
+  ],
+  "license": "MIT",
+  "version": "0.0.1",
   "dependencies": {
     "express": "^4.14.0"
   },
